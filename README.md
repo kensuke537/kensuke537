@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center"><a href="https://one-is.jp"><img width="80%" alt="Hello, I'm kensuke" src="https://images.microcms-assets.io/assets/b24c2fef659a452faaa91dbc5c181024/8a4af271dd9143dba97ee23806a3789b/header.png?auto=format,compress&h=300" /></a></p>
+
+<br />
 
 <!--
 **kensuke537/kensuke537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
