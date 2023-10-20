@@ -22,14 +22,9 @@ Here are some ideas to get you started:
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kensuke537&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kensuke537&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=kensuke537&show_icons=true" />
-</picture>
+<br>
+<br>
+<a href="https://github.com/kenske537/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kensuke537&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
+</a><a href="https://github.com/kensuke537/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kensuke537&layout=compact&theme=buefy&hide_border=true" /></a>
