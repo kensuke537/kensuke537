@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-  <a href="https://github.com/kensuke537/kensuke537/">
-    <img src="https://komarev.com/ghpvc/?username=kensuke537" alt="yutkat" />
-  </a>
-  <a href="https://github.com/kensuke537">
-    <img height="20" src="https://img.shields.io/github/followers/kensuke537?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
