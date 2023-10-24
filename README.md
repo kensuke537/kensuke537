@@ -9,4 +9,5 @@
 <code><img height="20" alt="slack" src="https://images.microcms-assets.io/assets/b24c2fef659a452faaa91dbc5c181024/3be9e91c373b4cd6bd028b04e0e97101/Slack.png?auto=format,compress&h=300"></code>
 <br>
 <br>
- <a href="https://github.com/kensuke537/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kensuke537&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kensuke github stats" /></a> | <a href="https://github.com/kensuke/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kensuke537&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <a href="https://github.com/kensuke537/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kensuke537&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kensuke github stats" /></a><a href="https://github.com/kensuke/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kensuke537&layout=compact&theme=buefy&hide_border=true" /></a> 
