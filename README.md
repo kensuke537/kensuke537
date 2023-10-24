@@ -10,4 +10,4 @@
 <br>
 <br>
  <a href="https://github.com/kensuke537/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kensuke537&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kensuke github stats" /></a><a href="https://github.com/kensuke/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kensuke537&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kensuke537&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kensuke github stats" /></a><a href="https://github.com/kensuke537/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kensuke537&layout=compact&theme=buefy&hide_border=true" /></a> 
