@@ -9,6 +9,11 @@
 <code><img height="20" alt="slack" src="https://images.microcms-assets.io/assets/b24c2fef659a452faaa91dbc5c181024/3be9e91c373b4cd6bd028b04e0e97101/Slack.png?auto=format,compress&h=300"></code>
 <code><img height="20" alt="GoogleCloudPlatform" src="https://images.microcms-assets.io/assets/b24c2fef659a452faaa91dbc5c181024/20686db05ff7436ca663f0a1cc267d85/f7585a8cd3f47c44b6e72d69679f356a.png?auto=format,compress&h=300"></code>
 <code><img height="20" alt="Firebase" src="https://images.microcms-assets.io/assets/b24c2fef659a452faaa91dbc5c181024/6bf41af50f704da2acbc80ef3055ecae/logo-logomark.png?auto=format,compress&h=300"></code>
+<code><img height="20" alt="GAS" src="https://images.microcms-assets.io/assets/b24c2fef659a452faaa91dbc5c181024/3475d712edc04ddeb609c6d4cd801400/Google_Apps_Script.svg.png?auto=format,compress&h=300"></code>
+<code><img height="20" alt="LookerStudio" src="https://images.microcms-assets.io/assets/b24c2fef659a452faaa91dbc5c181024/77cf28070f3a4e53992510e35857a023/20221019181122.png?auto=format,compress&h=300"></code>
+<code><img height="20" alt="Figma" src="https://images.microcms-assets.io/assets/b24c2fef659a452faaa91dbc5c181024/5ade81b0c63f48b9925653807ce4fb0b/figma_logo_icon_170157.png?auto=format,compress&h=300"></code>
+
+
 
 
 <br>
