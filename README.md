@@ -7,7 +7,7 @@
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 <code><img height="20" alt="slack" src="https://images.microcms-assets.io/assets/b24c2fef659a452faaa91dbc5c181024/3be9e91c373b4cd6bd028b04e0e97101/Slack.png?auto=format,compress&h=300"></code>
-code><img height="20" alt="slack" src="https://images.microcms-assets.io/assets/b24c2fef659a452faaa91dbc5c181024/20686db05ff7436ca663f0a1cc267d85/f7585a8cd3f47c44b6e72d69679f356a.png?auto=format,compress&h=300"></code>
+<code><img height="20" alt="slack" src="https://images.microcms-assets.io/assets/b24c2fef659a452faaa91dbc5c181024/20686db05ff7436ca663f0a1cc267d85/f7585a8cd3f47c44b6e72d69679f356a.png?auto=format,compress&h=300"></code>
 
 <br>
 <br>
